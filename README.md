@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.tduong.online">Portfolio</a> ·
-  <a href="https://github.com/duong-vn">GitHub</a> ·
-  <a href="mailto:duongnguyenhust05@gmail.com">Email</a>
+  <a href="https://portfolio.tduong.online"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/firefox/firefox-original.svg" height="30" alt="Portfolio" title="Portfolio" /></a>
+  &nbsp;
+  <a href="https://github.com/duong-vn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/github/github-original.svg" height="30" alt="GitHub" title="GitHub" /></a>
+  &nbsp;
+  <a href="mailto:duongnguyenhust05@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/google/google-original.svg" height="30" alt="Email" title="Email" /></a>
 </p>
 
 ## About Me
@@ -59,13 +61,40 @@ Monorepo for initial health assessment, triage guidance, doctor handoff, and app
 
 ## Tech Stack
 
-- **Languages:** TypeScript, JavaScript, SQL
-- **Frontend:** React, Next.js, Tailwind CSS, Vite
-- **Backend:** Node.js, NestJS, Express.js, REST APIs
-- **Data & tools:** PostgreSQL, MongoDB, SQL Server, Prisma, Docker, Git, GitHub Actions
-- **Testing:** Jest, `ts-jest`, `@nestjs/testing`, Supertest
+### Core
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />
+</p>
+
+### Build
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" title="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" />
+</p>
+
+### Data & delivery
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prisma/prisma-original.svg" height="40" alt="Prisma" title="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions" />
+</p>
+
+<sub>Also working with SQL Server, REST APIs, `ts-jest`, `@nestjs/testing`, and Supertest.</sub>
 
 ## Connect
 
-- Portfolio: [portfolio.tduong.online](https://portfolio.tduong.online)
-- Email: [duongnguyenhust05@gmail.com](mailto:duongnguyenhust05@gmail.com)
+- [Portfolio](https://portfolio.tduong.online)
+- [Email](mailto:duongnguyenhust05@gmail.com)
