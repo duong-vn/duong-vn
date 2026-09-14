@@ -1,7 +1,10 @@
 <!-- Visual direction adapted from Glassmorphism Hero in https://github.com/beydemirfurkan/awesome-github-profile (MIT). -->
 
 <p align="center">
-  <img src="assets/profile/hero.svg" width="100%" alt="Nguyen Tuan Duong — Software Engineer Intern, Frontend and Full-stack" />
+  <picture>
+    <source srcset="https://novatorem-profile-card.vercel.app/api/profile-card" type="image/svg+xml" />
+    <img src="assets/profile/hero.svg" width="100%" alt="Nguyen Tuan Duong — Software Engineer Intern, Frontend and Full-stack" />
+  </picture>
 </p>
 
 <p align="center">
