@@ -1,36 +1,35 @@
-<!-- ponytail: static pure-Markdown layout; add dynamic activity only when explicitly requested. -->
-<div align="center">
-  <h1>Nguyen Tuan Duong</h1>
-  <p>
-    <strong>Software Engineer Intern · Frontend / Full-stack</strong><br />
-    Hanoi, Vietnam
-  </p>
-  <p>
-    <a href="https://portfolio.tduong.online">Portfolio</a> ·
-    <a href="https://github.com/duong-vn">GitHub</a> ·
-    <a href="mailto:duongnguyenhust05@gmail.com">Email</a>
-  </p>
-</div>
+<!-- Visual direction adapted from Glassmorphism Hero in https://github.com/beydemirfurkan/awesome-github-profile (MIT). -->
 
----
+<p align="center">
+  <img src="assets/profile/hero.svg" width="100%" alt="Nguyen Tuan Duong — Software Engineer Intern, Frontend and Full-stack" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio.tduong.online">Portfolio</a> ·
+  <a href="https://github.com/duong-vn">GitHub</a> ·
+  <a href="mailto:duongnguyenhust05@gmail.com">Email</a>
+</p>
 
 ## About Me
 
 I build responsive, reliable web applications across frontend and backend systems, focusing on TypeScript, React, Next.js, and NestJS. Currently pursuing Information Technology in the Vietnam-Japan Program at Hanoi University of Science and Technology (HUST).
 
-- **Current focus:** Full-stack web development with Next.js, NestJS, and PostgreSQL
-- **Looking for:** Software Engineer Intern, Frontend, or Full-stack opportunities
+> [!TIP]
+> **Current focus:** Full-stack web development with Next.js, NestJS, and PostgreSQL.
+>
+> **Looking for:** Software Engineer Intern, Frontend, or Full-stack opportunities.
 
-## Experience
+## Experience & Education
 
 - **Frontend Developer Intern** · Sun* Vietnam *(Jul 2026 – Aug 2026)*
 - **Frontend Intern / Trainee** · JVB Vietnam *(Oct 2025 – Dec 2025)*
-
-## Education
-
 - **Information Technology, Vietnam-Japan Program** · Hanoi University of Science and Technology (HUST) *(2023 – Present)*
 
-## Featured Projects
+## Selected Work
+
+<p align="center">
+  <img src="assets/profile/projects.svg" width="100%" alt="Selected projects: KickZone, ZOZO Pet Services, and Serene Health" />
+</p>
 
 ### [KickZone](https://github.com/duong-vn/KickZone) · Football Pitch Booking Platform
 
@@ -64,11 +63,13 @@ Monorepo for initial health assessment, triage guidance, doctor handoff, and app
 - **Data & tools:** PostgreSQL, MongoDB, SQL Server, Prisma, Docker, Git, GitHub Actions
 - **Testing:** Jest, `ts-jest`, `@nestjs/testing`, Supertest
 
-## Contact
+## Connect
 
 - Portfolio: [portfolio.tduong.online](https://portfolio.tduong.online)
 - Email: [duongnguyenhust05@gmail.com](mailto:duongnguyenhust05@gmail.com)
 
-<div align="center">
-  <sub>Layout adapted from <a href="https://github.com/Godwinn22/Godwinn22">Godwinn22</a>.</sub>
-</div>
+<p align="center">
+  <img src="assets/profile/footer.svg" width="100%" alt="Build, learn, ship — portfolio.tduong.online" />
+</p>
+
+<p align="center"><sub>Visual direction adapted from <a href="https://github.com/beydemirfurkan/awesome-github-profile">awesome-github-profile</a> (MIT).</sub></p>
