@@ -1,10 +1,5 @@
-<!-- Visual direction adapted from Glassmorphism Hero in https://github.com/beydemirfurkan/awesome-github-profile (MIT). -->
-
 <p align="center">
-  <picture>
-    <source srcset="https://novatorem-profile-card.vercel.app/api/profile-card" type="image/svg+xml" />
-    <img src="assets/profile/hero.svg" width="100%" alt="Nguyen Tuan Duong — Software Engineer Intern, Frontend and Full-stack" />
-  </picture>
+  <img src="https://novatorem-profile-card.vercel.app/api/profile-card?v=2" width="100%" alt="Nguyen Tuan Duong — Software Engineer Intern, Frontend and Full-stack" />
 </p>
 
 <p align="center">
@@ -29,10 +24,6 @@ I build responsive, reliable web applications across frontend and backend system
 - **Information Technology, Vietnam-Japan Program** · Hanoi University of Science and Technology (HUST) *(2023 – Present)*
 
 ## Selected Work
-
-<p align="center">
-  <img src="assets/profile/projects.svg" width="100%" alt="Selected projects: KickZone, ZOZO Pet Services, and Serene Health" />
-</p>
 
 ### [KickZone](https://github.com/duong-vn/KickZone) · Football Pitch Booking Platform
 
@@ -78,9 +69,3 @@ Monorepo for initial health assessment, triage guidance, doctor handoff, and app
 
 - Portfolio: [portfolio.tduong.online](https://portfolio.tduong.online)
 - Email: [duongnguyenhust05@gmail.com](mailto:duongnguyenhust05@gmail.com)
-
-<p align="center">
-  <img src="assets/profile/footer.svg" width="100%" alt="Build, learn, ship — portfolio.tduong.online" />
-</p>
-
-<p align="center"><sub>Visual direction adapted from <a href="https://github.com/beydemirfurkan/awesome-github-profile">awesome-github-profile</a> (MIT).</sub></p>
