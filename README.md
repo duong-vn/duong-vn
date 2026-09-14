@@ -55,6 +55,14 @@ Monorepo for initial health assessment, triage guidance, doctor handoff, and app
 
 [Live demo](https://serene-health-web.vercel.app) · [Repository](https://github.com/duong-vn/Serene-Health)
 
+## Contribution Graph
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Nguyen Tuan Duong's three-dimensional GitHub contribution graph" />
+</p>
+
+<sub>Updated weekly from public GitHub contributions.</sub>
+
 ## Tech Stack
 
 - **Languages:** TypeScript, JavaScript, SQL
